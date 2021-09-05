@@ -1,0 +1,10 @@
+.vs/
+config/
+packages/
+Secrets.txt
+src/AgilityCont.Api/bin/
+src/AgilityCont.Api/obj/
+src/AgilityCont.DataAccess/bin/
+src/AgilityCont.DataAccess/obj/
+
+src/AgilityCont.Api/Properties/PublishProfiles/
